@@ -2,7 +2,7 @@
   "name": "my-app",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://tugcesoysal.github.io/time-tracking-dashboard-main",
+  "homepage": "https://tugcesoysal.github.io/fm-time-tracking-dashboard-main",
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
     "@testing-library/react": "^13.4.0",
